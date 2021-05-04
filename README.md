@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/gmbehappy" target="blank"><img align="center" src="https://github.com/GmBeHappy/GmBeHappy/blob/main/instagram.svg" alt="gmbehappy" height="30" width="40" /></a>
-<a href="https://medium.com/@witchayut-gm" target="blank"><img align="center" src="https://github.com/GmBeHappy/GmBeHappy/blob/main/medium.svg" alt="@witchayut-gm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/user/witchayutgm" target="blank"><img align="center" src="https://github.com/GmBeHappy/GmBeHappy/blob/main/youtube.svg" alt="gmstudio" height="30" width="40" /></a>
 <a href="https://www.facebook.com/gm.gerdchai" target="blank"><img align="center" src="https://github.com/GmBeHappy/GmBeHappy/blob/main/facebook.svg" alt="gmgerdchai" height="30" width="40" /></a>
+<a href="https://instagram.com/gmbehappy" target="blank"><img align="center" src="https://github.com/GmBeHappy/GmBeHappy/blob/main/instagram.svg" alt="gmbehappy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/witchayutgm" target="blank"><img align="center" src="https://github.com/GmBeHappy/GmBeHappy/blob/main/youtube.svg" alt="gmstudio" height="30" width="40" /></a>
+<a href="https://medium.com/@witchayut-gm" target="blank"><img align="center" src="https://github.com/GmBeHappy/GmBeHappy/blob/main/medium.svg" alt="@witchayut-gm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
