@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GmBeHappy</h1>
-<h3 align="center">Study Computer Engineer at King Mongkut's Institute of Technology Ladkrabang, Co-Founder and developer of GMTECH Solution Part., Ltd.</h3>
+<h3 align="center">Study Computer Engineering at KMITL , Co-Founder and developer of GMTECH Solution Part., Ltd.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
