@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm GmBeHappy</h1>
+<h1 align="center">Hi 👋, I'm Programy</h1>
 <h3 align="center">Study Computer Engineering at KMITL , Co-Founder and developer of GMTECH Solution Part., Ltd.</h3>
+![](https://hit.yhype.me/github/profile?user_id=35629716)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
