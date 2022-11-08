@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Program</h1>
-<h3 align="center">Study Computer Engineering at KMITL , Co-Founder and developer of GMTECH Solution Part., Ltd.</h3>
+<!-- <h3 align="center">Study Computer Engineering at KMITL , Co-Founder and developer of GMTECH Solution Part., Ltd.</h3> -->
+<h3 align="center">Study Computer Engineering at KMITL</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GmBeHappy&show_icons=true&theme=nightowl&locale=en" alt="lebrancconvas" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GmBeHappy&layout=compact&theme=dracula&no-bg=true&no-frame=true" alt="lebrancconvas" /></p>
 
